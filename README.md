@@ -5,7 +5,7 @@ Tap a tag to lock distracting apps. Tap again to unlock.
 Free alternative to The Brick — no hardware, no subscription.
 
 ## Screenshots
-<!-- Add screenshots here -->
+![TagOut](screenshots/tagout_screenshot.jpg)
 
 ## How it works
 1. Add your NFC tags and name them
