@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TagOut</string>
+    <string name="app_description">Minimal focus app that blocks distracting apps using NFC tags</string>
+    <string name="nfc_tags">NFC Tags</string>
+    <string name="profiles">Profiles</string>
+    <string name="accessibility_service_label">TagOut App Blocker</string>
+    <string name="accessibility_service_desc">Monitors foreground apps to enforce active focus blocking profiles</string>
+</resources>
