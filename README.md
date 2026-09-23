@@ -18,4 +18,4 @@ Download the APK from [Releases](https://github.com/Diamondlight8/tagout/release
 Enable "Install from unknown sources" in Android settings and install.
 
 ## Built by
-Hirakjyoti Dahal
+Hirak
